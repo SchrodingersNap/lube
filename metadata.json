@@ -1,0 +1,6 @@
+{
+  "name": "LubeSafe 360 - Plant Safety Gamification",
+  "description": "Interactive voice-guided safety gamification app for lube blending plant workers and supervisors with PPE simulation, hazard spotting, and consequence demonstrations in Bengali and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
